@@ -4,6 +4,13 @@ A simple Flutter scientific calculator application developed for the **Mobile Ap
 
 ---
 
+## Project Files
+
+The main application source files are located under the `lib/` directory.  
+The scientific calculator screen and calculation logic are placed in `lib/features/scientific/`, while the calculation history files are placed in `lib/features/history/`.
+
+---
+
 ## Preview
 
 <p align="center">
